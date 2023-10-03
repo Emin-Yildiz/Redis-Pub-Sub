@@ -1,0 +1,48 @@
+2023-10-02 17:35:12,214 DEBUG - Starting WinSW in console mode
+2023-10-02 17:35:14,153 DEBUG - Starting WinSW in console mode
+2023-10-02 17:35:14,168 INFO  - Installing service 'redis-subs (redis-subs-java-ws)'...
+2023-10-02 17:35:14,172 ERROR - A service with ID 'redis-subs-java-ws' already exists.
+2023-10-02 17:35:14,175 FATAL - Failed to install the service. Belirtilen hizmet halen var
+2023-10-02 17:35:27,883 DEBUG - Starting WinSW in console mode
+2023-10-02 17:35:29,539 DEBUG - Starting WinSW in console mode
+2023-10-02 17:35:29,554 INFO  - Uninstalling service 'redis-subs (redis-subs-java-ws)'...
+2023-10-02 17:35:29,557 INFO  - Service 'redis-subs (redis-subs-java-ws)' was uninstalled successfully.
+2023-10-02 17:35:32,995 DEBUG - Starting WinSW in console mode
+2023-10-02 17:35:34,749 DEBUG - Starting WinSW in console mode
+2023-10-02 17:35:34,763 INFO  - Installing service 'redis-subs (redis-subs-java-ws)'...
+2023-10-02 17:35:34,773 INFO  - Service 'redis-subs (redis-subs-java-ws)' was installed successfully.
+2023-10-02 17:50:20,261 DEBUG - Starting WinSW in console mode
+2023-10-02 17:50:22,071 DEBUG - Starting WinSW in console mode
+2023-10-02 17:50:22,085 INFO  - Uninstalling service 'redis-subs (redis-subs-java-ws)'...
+2023-10-02 17:50:22,089 INFO  - Service 'redis-subs (redis-subs-java-ws)' was uninstalled successfully.
+2023-10-02 17:50:30,721 DEBUG - Starting WinSW in console mode
+2023-10-02 17:50:32,315 DEBUG - Starting WinSW in console mode
+2023-10-02 17:50:32,330 INFO  - Installing service 'redis-subs (redis-subs-java-ws)'...
+2023-10-02 17:50:32,340 INFO  - Service 'redis-subs (redis-subs-java-ws)' was installed successfully.
+2023-10-02 17:50:43,867 DEBUG - Starting WinSW in service mode
+2023-10-02 17:50:43,884 INFO  - Starting java  -jar redis-subs-ws.jar
+2023-10-02 17:50:43,904 INFO  - Started process 10920
+2023-10-02 17:50:43,909 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2023-10-02 17:51:50,958 DEBUG - Starting WinSW in console mode
+2023-10-02 17:51:52,436 DEBUG - Starting WinSW in console mode
+2023-10-02 17:51:52,453 INFO  - Uninstalling service 'redis-subs (redis-subs-java-ws)'...
+2023-10-02 17:51:52,457 WARN  - Service 'redis-subs (redis-subs-java-ws)' is started. It may be impossible to uninstall it.
+2023-10-02 17:51:52,458 INFO  - Service 'redis-subs (redis-subs-java-ws)' was uninstalled successfully.
+2023-10-02 17:52:02,119 INFO  - Stopping redis-subs-java-ws
+2023-10-02 17:52:02,119 DEBUG - ProcessKill 10920
+2023-10-02 17:52:02,124 DEBUG - Stopping process 10920...
+2023-10-02 17:52:02,127 DEBUG - Process 10920 canceled with code -1073741510.
+2023-10-02 17:52:02,137 INFO  - Finished redis-subs-java-ws
+2023-10-02 17:52:20,473 DEBUG - Starting WinSW in console mode
+2023-10-02 17:52:22,347 DEBUG - Starting WinSW in console mode
+2023-10-02 17:52:22,362 INFO  - Installing service 'redis-subs (redis-subs-java-ws)'...
+2023-10-02 17:52:22,371 INFO  - Service 'redis-subs (redis-subs-java-ws)' was installed successfully.
+2023-10-02 17:52:28,763 DEBUG - Starting WinSW in service mode
+2023-10-02 17:52:28,782 INFO  - Starting java  -jar redis-subs-ws.jar
+2023-10-02 17:52:28,800 INFO  - Started process 16468
+2023-10-02 17:52:28,804 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2023-10-02 17:54:18,925 INFO  - Stopping redis-subs-java-ws
+2023-10-02 17:54:18,925 DEBUG - ProcessKill 16468
+2023-10-02 17:54:18,925 DEBUG - Stopping process 16468...
+2023-10-02 17:54:18,941 DEBUG - Process 16468 canceled with code -1073741510.
+2023-10-02 17:54:18,951 INFO  - Finished redis-subs-java-ws

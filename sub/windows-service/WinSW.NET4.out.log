@@ -1,0 +1,48 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.4)
+
+2023-10-02T17:50:45.083+03:00  INFO 20404 --- [           main] com.example.sub.SubApplication           : Starting SubApplication v0.0.1-SNAPSHOT using Java 17.0.8 with PID 20404 (C:\Users\P2630\Documents\GitHub\Redis-Pub-Sub\sub\target\windows-service\redis-subs-ws.jar started by 2630NB$ in C:\Users\P2630\Documents\GitHub\Redis-Pub-Sub\sub\target\windows-service)
+2023-10-02T17:50:45.088+03:00  INFO 20404 --- [           main] com.example.sub.SubApplication           : No active profile set, falling back to 1 default profile: "default"
+2023-10-02T17:50:46.090+03:00  INFO 20404 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2023-10-02T17:50:46.095+03:00  INFO 20404 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-10-02T17:50:46.157+03:00  INFO 20404 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 33 ms. Found 0 Redis repository interfaces.
+2023-10-02T17:50:46.898+03:00  INFO 20404 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8083 (http)
+2023-10-02T17:50:46.907+03:00  INFO 20404 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-02T17:50:46.908+03:00  INFO 20404 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-02T17:50:47.012+03:00  INFO 20404 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-02T17:50:47.012+03:00  INFO 20404 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1814 ms
+2023-10-02T17:50:48.538+03:00  INFO 20404 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8083 (http) with context path ''
+2023-10-02T17:50:49.890+03:00  INFO 20404 --- [           main] com.example.sub.SubApplication           : Started SubApplication in 5.319 seconds (process running for 5.907)
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.4)
+
+2023-10-02T17:52:29.849+03:00  INFO 6520 --- [           main] com.example.sub.SubApplication           : Starting SubApplication v0.0.1-SNAPSHOT using Java 17.0.8 with PID 6520 (C:\Users\P2630\Documents\GitHub\Redis-Pub-Sub\sub\target\windows-service\redis-subs-ws.jar started by 2630NB$ in C:\Users\P2630\Documents\GitHub\Redis-Pub-Sub\sub\target\windows-service)
+2023-10-02T17:52:29.854+03:00  INFO 6520 --- [           main] com.example.sub.SubApplication           : No active profile set, falling back to 1 default profile: "default"
+2023-10-02T17:52:30.679+03:00  INFO 6520 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2023-10-02T17:52:30.682+03:00  INFO 6520 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-10-02T17:52:30.727+03:00  INFO 6520 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+2023-10-02T17:52:31.492+03:00  INFO 6520 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2023-10-02T17:52:31.502+03:00  INFO 6520 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-02T17:52:31.502+03:00  INFO 6520 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-02T17:52:31.594+03:00  INFO 6520 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-02T17:52:31.594+03:00  INFO 6520 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1647 ms
+2023-10-02T17:52:32.657+03:00  INFO 6520 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2023-10-02T17:52:33.249+03:00  INFO 6520 --- [           main] com.example.sub.SubApplication           : Started SubApplication in 3.864 seconds (process running for 4.376)
+2023-10-02T17:52:50.767+03:00  INFO 6520 --- [edisContainer-2] c.e.s.s.listener.ProducEventListener2    : new message received productEventListener2: {"@class":"com.example.pub.domain.Product","productId":null,"productName":"urun","quantity":"10"}
+2023-10-02T17:52:50.767+03:00  INFO 6520 --- [edisContainer-3] c.e.s.s.listener.ProducEventListener2    : new message received productEventListener3: {"@class":"com.example.pub.domain.Product","productId":null,"productName":"urun","quantity":"10"}
+2023-10-02T17:52:50.767+03:00  INFO 6520 --- [edisContainer-1] c.e.s.s.listener.ProducEventListener     : new message received productEventListener: {"@class":"com.example.pub.domain.Product","productId":null,"productName":"urun","quantity":"10"}
+2023-10-02T17:52:50.900+03:00  INFO 6520 --- [edisContainer-3] c.e.s.s.listener.ProducEventListener2    : Item Subscribe operations is success: Product{productId=null, productName='urun', quantity='10'}
+2023-10-02T17:52:50.900+03:00  INFO 6520 --- [edisContainer-1] c.e.s.s.listener.ProducEventListener     : Item Subscribe operations is success: Product{productId=null, productName='urun', quantity='10'}
+2023-10-02T17:52:50.900+03:00  INFO 6520 --- [edisContainer-2] c.e.s.s.listener.ProducEventListener2    : Item Subscribe operations is success: Product{productId=null, productName='urun', quantity='10'}

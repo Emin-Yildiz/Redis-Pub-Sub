@@ -1,0 +1,75 @@
+2023-10-02 15:09:31,685 DEBUG - Starting WinSW in console mode
+2023-10-02 15:09:31,698 INFO  - Installing service 'redis-pub (powered by WinSW) (redis-pub-java-ws)'...
+2023-10-02 15:09:31,720 INFO  - Service 'redis-pub (powered by WinSW) (redis-pub-java-ws)' was installed successfully.
+2023-10-02 15:12:28,194 DEBUG - Starting WinSW in service mode
+2023-10-02 15:12:28,216 INFO  - Starting java  -jar redis-pub-ws.jar
+2023-10-02 15:12:28,241 INFO  - Started process 18924
+2023-10-02 15:12:28,246 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2023-10-02 16:11:12,199 INFO  - Stopping redis-pub-java-ws
+2023-10-02 16:11:12,199 DEBUG - ProcessKill 18924
+2023-10-02 16:11:12,202 DEBUG - Stopping process 18924...
+2023-10-02 16:11:12,209 DEBUG - Process 18924 canceled with code -1073741510.
+2023-10-02 16:11:12,215 INFO  - Finished redis-pub-java-ws
+2023-10-02 16:12:55,476 DEBUG - Starting WinSW in console mode
+2023-10-02 16:12:55,488 INFO  - Uninstalling service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 16:12:55,495 INFO  - Service 'redis-pub (redis-pub-java-ws)' was uninstalled successfully.
+2023-10-02 16:14:19,957 DEBUG - Starting WinSW in console mode
+2023-10-02 16:14:19,969 INFO  - Uninstalling service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 16:14:19,974 WARN  - Service 'redis-pub (redis-pub-java-ws)' does not exist.
+2023-10-02 16:14:29,737 DEBUG - Starting WinSW in console mode
+2023-10-02 16:14:29,749 INFO  - Uninstalling service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 16:14:29,753 WARN  - Service 'redis-pub (redis-pub-java-ws)' does not exist.
+2023-10-02 17:36:42,254 DEBUG - Starting WinSW in console mode
+2023-10-02 17:36:43,803 DEBUG - Starting WinSW in console mode
+2023-10-02 17:36:43,816 INFO  - Uninstalling service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 17:36:43,820 WARN  - Service 'redis-pub (redis-pub-java-ws)' does not exist.
+2023-10-02 17:36:49,027 DEBUG - Starting WinSW in console mode
+2023-10-02 17:36:50,437 DEBUG - Starting WinSW in console mode
+2023-10-02 17:36:50,452 INFO  - Installing service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 17:36:50,463 INFO  - Service 'redis-pub (redis-pub-java-ws)' was installed successfully.
+2023-10-02 17:36:59,784 DEBUG - Starting WinSW in service mode
+2023-10-02 17:36:59,804 INFO  - Starting java  -jar redis-pub-ws.jar
+2023-10-02 17:36:59,824 INFO  - Started process 2608
+2023-10-02 17:36:59,829 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2023-10-02 17:38:35,924 DEBUG - Starting WinSW in console mode
+2023-10-02 17:38:37,477 DEBUG - Starting WinSW in console mode
+2023-10-02 17:38:37,492 INFO  - Uninstalling service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 17:38:37,495 INFO  - Service 'redis-pub (redis-pub-java-ws)' was uninstalled successfully.
+2023-10-02 17:38:38,895 DEBUG - Starting WinSW in console mode
+2023-10-02 17:38:40,399 DEBUG - Starting WinSW in console mode
+2023-10-02 17:38:40,414 INFO  - Uninstalling service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 17:38:40,417 WARN  - Service 'redis-pub (redis-pub-java-ws)' does not exist.
+2023-10-02 17:38:41,587 DEBUG - Starting WinSW in console mode
+2023-10-02 17:38:43,558 DEBUG - Starting WinSW in console mode
+2023-10-02 17:38:43,574 INFO  - Installing service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 17:38:43,585 INFO  - Service 'redis-pub (redis-pub-java-ws)' was installed successfully.
+2023-10-02 17:38:50,057 DEBUG - Starting WinSW in service mode
+2023-10-02 17:38:50,077 INFO  - Starting java  -jar redis-pub-ws.jar
+2023-10-02 17:38:50,095 INFO  - Started process 3960
+2023-10-02 17:38:50,100 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2023-10-02 17:40:40,010 DEBUG - Starting WinSW in console mode
+2023-10-02 17:40:41,354 DEBUG - Starting WinSW in console mode
+2023-10-02 17:40:41,367 INFO  - Uninstalling service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 17:40:41,371 INFO  - Service 'redis-pub (redis-pub-java-ws)' was uninstalled successfully.
+2023-10-02 17:40:42,639 DEBUG - Starting WinSW in console mode
+2023-10-02 17:40:43,696 DEBUG - Starting WinSW in console mode
+2023-10-02 17:40:43,712 INFO  - Installing service 'redis-pub (redis-pub-java-ws)'...
+2023-10-02 17:40:43,723 INFO  - Service 'redis-pub (redis-pub-java-ws)' was installed successfully.
+2023-10-02 17:40:51,732 DEBUG - Starting WinSW in service mode
+2023-10-02 17:40:51,751 INFO  - Starting java  -jar redis-pub-ws.jar
+2023-10-02 17:40:51,769 INFO  - Started process 20404
+2023-10-02 17:40:51,774 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2023-10-02 17:47:40,955 INFO  - Stopping redis-pub-java-ws
+2023-10-02 17:47:40,955 DEBUG - ProcessKill 20404
+2023-10-02 17:47:40,960 DEBUG - Stopping process 20404...
+2023-10-02 17:47:40,964 DEBUG - Process 20404 canceled with code -1073741510.
+2023-10-02 17:47:40,969 INFO  - Finished redis-pub-java-ws
+2023-10-02 17:50:47,676 DEBUG - Starting WinSW in service mode
+2023-10-02 17:50:47,707 INFO  - Starting java  -jar redis-pub-ws.jar
+2023-10-02 17:50:47,737 INFO  - Started process 11584
+2023-10-02 17:50:47,743 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2023-10-02 17:54:21,899 INFO  - Stopping redis-pub-java-ws
+2023-10-02 17:54:21,899 DEBUG - ProcessKill 11584
+2023-10-02 17:54:21,914 DEBUG - Stopping process 11584...
+2023-10-02 17:54:21,914 DEBUG - Process 11584 canceled with code -1073741510.
+2023-10-02 17:54:21,914 INFO  - Finished redis-pub-java-ws
